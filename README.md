@@ -16,7 +16,7 @@ offering a variety of services and packages, and enabling daycares and parents t
 
 #  you can find our figma here : 
 https://www.figma.com/file/Sq8CEhS7srGeZAmdHAj15z/%D8%A7%D8%B7%D9%85%D8%A6%D9%86%D9%8A?type=design&node-id=0%3A1&t=6avQ36V1gK22JW5S-1
-# you can find our postman Collectuon her 
+# you can find our postman collection her :
 
 thanks for all 
 rawan and atheer 
