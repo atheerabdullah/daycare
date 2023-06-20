@@ -1,4 +1,4 @@
-# description of our daycare and babysitting system: (تطمني )
+# description of our daycare and babysitting system: (اطمني )
 
 Our daycare and babysitting system is a platform designed to provide parents with flexible childcare options. The system offers two main services  for childcare: bringing a babysitter from a daycare provider to set up with the baby at home, or putting the baby in a daycare facility near the location chosen by the parent.
 
