@@ -14,11 +14,23 @@ Overall, your daycare and babysitting system provides a convenient and flexible 
 
 offering a variety of services and packages, and enabling daycares and parents to connect through a digital platform, your system makes it easier for parents to find the care they need for their children.
 
-#  you can find our figma here : 
+# To run our website as localhost, follow these steps:
+
+Ensure that you have Maven build-in system tool installed on your computer. You can download and install it from the official website.
+
+Make sure you have SQL driver installed on your computer. You can download it from the official website. Also, you can use DataGrip tool to manage the development environment.
+
+Start the server by running the command "mvn spring-boot:run" in the terminal. This will start the server and make it available at localhost:8080.
+
+To test the API endpoints, you can use Postman environment. Import our Postman environment and generate the URL for the desired endpoint.
+
+By following these steps, you will be able to run our website as localhost and test the API endpoints using Postman.
+
+# you can find our figma here : 
 https://www.figma.com/file/Sq8CEhS7srGeZAmdHAj15z/%D8%A7%D8%B7%D9%85%D8%A6%D9%86%D9%8A?type=design&node-id=0%3A1&t=6avQ36V1gK22JW5S-1
+
 # you can find our postman collection her :
+https://documenter.getpostman.com/view/27421709/2s93z3e4tq
 
-# how you can run our system :
-
-thanks for all 
+Thanks for all 
 rawan and atheer 
