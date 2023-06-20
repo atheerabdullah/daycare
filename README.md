@@ -1,4 +1,4 @@
-# description of our daycare and babysitting system: (اطمني )
+# description of our daycare system: (اطمني)
 
 Our daycare and babysitting system is a platform designed to provide parents with flexible childcare options. The system offers two main services  for childcare: bringing a babysitter from a daycare provider to set up with the baby at home, or putting the baby in a daycare facility near the location chosen by the parent.
 
@@ -16,6 +16,7 @@ offering a variety of services and packages, and enabling daycares and parents t
 
 #  you can find our figma here : 
 https://www.figma.com/file/Sq8CEhS7srGeZAmdHAj15z/%D8%A7%D8%B7%D9%85%D8%A6%D9%86%D9%8A?type=design&node-id=0%3A1&t=6avQ36V1gK22JW5S-1
+# you can find our postman Collectuon her 
 
 thanks for all 
 rawan and atheer 
